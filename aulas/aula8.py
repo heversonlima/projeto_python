@@ -17,4 +17,6 @@ while aux <= n1:
     print(aux)
     aux = aux+1
 
+nex = input('\nenter pro proximo exemplo')
+os.system('cls') #limpando a tela
 
